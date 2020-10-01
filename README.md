@@ -17,4 +17,4 @@ Good Luck
 - Vikram Thakur
 Software Architect
 http://www.ezeontech.com
-My Blogs : http://ezeon.in/blog 
+My Blog : http://ezeon.in/blog 
